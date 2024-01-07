@@ -133,7 +133,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codehariom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codehariom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="160" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=codehariom&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
