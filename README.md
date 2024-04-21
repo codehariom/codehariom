@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codehariom.codehariom&left_color=darkorange&right_color=darkred&left_text=Visitor"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codehariom.codehariom&left_color=darkorange&right_color=darkred&left_text=Visitor"/>
 </div>
 
 ###
