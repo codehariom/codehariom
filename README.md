@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working as a Data Scientist <br>🤝 I’m looking for help with Python<br>🌱 I’m currently Playing With Data <br>💬 About me Data Scientist || Data Analyst ||  5⭐️ SQL in HackerRank || Digital Marketer</h4>
+<h4 align="left">🔭 I’m currently working as a Full-Stack Web Developer <BR>  🌱 I’m currently work Designing to Development  <BR> 💬 About me Full-Stack Web Developer || Data Analyst ||  5⭐️ SQL in HackerRank || Digital Marketer </h4>
 
 ###
 
