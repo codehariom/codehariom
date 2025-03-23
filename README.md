@@ -21,6 +21,9 @@
   <a href="https://www.hackerrank.com/profile/Hariomcoder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/u/CODEHARIOM/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Leetcode logo"  />
+  </a>
 </div>
 
 ###
