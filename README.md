@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working as a Full-Stack Web Developer <BR>  🌱 I’m currently work Designing to Development  <BR> 💬 About me Full-Stack Web Developer || Data Analyst ||  5⭐️ SQL in HackerRank || Digital Marketer </h4>
+<h4 align="left">🔭 software engineer  <BR>  🌱 Founder @aapkaorder <BR> 💬  </h4>
 
 ###
 
